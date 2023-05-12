@@ -88,7 +88,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://ShaliniNayan.github.io/Shalini_Portfolio/)
+- [Live Demo Link]( https://shalininayan.github.io/Portfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,7 +110,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/ShaliniNayan/Shalini_Portfolio.git
+  git clone  https://shalininayan.github.io/Portfolio/
   npm install
 ```
 
