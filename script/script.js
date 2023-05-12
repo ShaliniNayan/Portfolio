@@ -155,7 +155,6 @@ const changePopupData = (data) => {
   modalSeeSource.href = "https://www.github.com/ShaliniNayan";
   const { technologies } = usingData;
   let tags = "";
-  it;
   for (let index = 0; index < technologies.length; index += 1) {
     const element = technologies[index];
     tags += ` <li >${element}</li>`;
