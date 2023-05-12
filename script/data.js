@@ -93,7 +93,8 @@ export const desktopProjects = [
   {
     id: "2",
     cardTitle: "Awesome Books",
-    description: "A simple book storage app.",
+    description:
+      "A simple book storage app.",
     company: "FACEBOOK",
     cardTitle2: "TONIC",
     description2:
