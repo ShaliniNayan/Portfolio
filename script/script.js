@@ -152,7 +152,7 @@ const changePopupData = (data) => {
   );
   modalDescription.textContent = usingData.description;
   modalSeeLive.href = "https://www.google.com";
-  modalSeeSource.href = "https://github.com/ShaliniNayan";
+  modalSeeSource.href = "https://www.github.com/ShaliniNayan";
   const { technologies } = usingData;
   let tags = "";
   it;
