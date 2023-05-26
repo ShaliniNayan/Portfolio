@@ -75,7 +75,7 @@ export const desktopProjects = [
   {
     // card 1 details
     id: '1',
-    cardTitle: 'SPOTRS LEAGUE CONFERANCE',
+    cardTitle: 'SPORTS LEAGUE CONFERENCE',
     description:
       'Sports league is a unique initiative to promote all sports in region of India.',
     company: 'SPORTS LEAGUE',
