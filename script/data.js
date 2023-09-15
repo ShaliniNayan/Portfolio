@@ -139,4 +139,21 @@ export const desktopProjects = [
     year: '2015',
     technologies: ['HTML', 'CSS', 'JavaScript'],
   },
+
+  {
+    id: '5',
+    cardTitle: 'BUDGET-APP',
+    description:
+      'Budget-app is a mobile web application designed for efficient budget management. Users can register, log in, add transactions to categories, and monitor their expenses. With secure authentication, PostgreSQL database, and comprehensive testing, this app ensures seamless and secure budget tracking.',
+    company: 'Uber',
+    cardTitle2: 'TONIC',
+    description2:
+      'A daily selection of privately personalized; sign-ups required.',
+    company2: 'CONOPY',
+    no: 'detail1',
+    cardImage1: './images/BudgetApp-D5.jpg',
+    counterText: 'Lead Developer',
+    year: '2015',
+    technologies: ['HTML', 'CSS', 'JavaScript', 'Ruby on Rails'],
+  },
 ];
